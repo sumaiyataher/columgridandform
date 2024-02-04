@@ -1,0 +1,59 @@
+.container{
+    width: 90%;
+}
+
+.about{
+    
+    background: #fffcf4;
+    padding: 40px 0px;
+}
+
+.a_title{
+  
+    padding: 40px 0px;
+    text-align: center;
+}
+
+.a_title .c_title{
+    font-size: 28px;
+    line-height: 38px;
+    font-weight: 600;
+    text-transform: uppercase;
+    color: #c3360b;
+}
+.a_title .c_text{
+    font-size: 14px;
+    line-height: 24px;
+    font-weight: 500;
+    color: #242422;
+    padding: 10px 0px;
+}
+
+.feature{
+   padding: 80px 0px;
+   background-color: #dcdcdc;
+}
+.f_box{
+    overflow: hidden;
+  /* border: 1px solid red; */
+  box-sizing: border-box;
+}
+
+.f_box .f_image img {
+    width: 100%;
+}
+
+.m_30{
+    margin-top: 30px;
+}
+
+.contact{
+    background: #f7f7f7;
+    padding: 40px 0px;
+}
+
+.form-label{
+    color: #000;
+    font-size: 18px;
+}
+
